@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-
+//added main method
 func main() {
 	if len(os.Args) != 3 {
 		fmt.Println("Please two integer args.")
