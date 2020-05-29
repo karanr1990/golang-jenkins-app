@@ -28,7 +28,6 @@ func main() {
 	fmt.Println(Sum(a, b))
 }
 
-//implementation of sum
 func Sum(a int, b int) int {
 	return a + a
 }
